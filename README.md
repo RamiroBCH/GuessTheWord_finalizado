@@ -1,3 +1,14 @@
+Este es un codigo de los Codelabs de Conceptos básicos de Kotlin para Android
+de la pagina
+https://developer.android.com/courses/kotlin-android-fundamentals/toc?hl=es
+
+En este curso se utiliza:
+5.1 ViewModel y ViewModelProvider
+5.2 LiveData y observadores LiveData
+5.3 DataBinding con ViewModel y LiveData
+5.4 Transformaciones de LiveData
+
+
 ViewModel and ViewModelFactory - Starter Code
 ==================================
 
